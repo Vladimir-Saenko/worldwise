@@ -6,13 +6,13 @@ function PageNav() {
     <nav className={styles.nav}>
       <ul>
         <li>
-          <NavLink to="/">Home</NavLink>
+          <NavLink to="/">Начало</NavLink>
         </li>
         <li>
-          <NavLink to="/product">Products</NavLink>
+          <NavLink to="/product">Предложения</NavLink>
         </li>
         <li>
-          <NavLink to="/pricing">Pricing</NavLink>
+          <NavLink to="/pricing">Цены</NavLink>
         </li>
       </ul>
     </nav>
