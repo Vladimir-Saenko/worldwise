@@ -37,39 +37,27 @@
       "id": "98443197"
     },
     {
+      "id": "7994",
       "cityName": "Novosibirsk",
-      "country": "Russia",
-      "emoji": "🇷🇺",
-      "date": "2027-01-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "country": "Russian Federation (the)",
+      "emoji": "RU",
+      "date": "2024-04-28T02:32:34.470Z",
+      "notes": "Столица Сибири",
       "position": {
-        "lat": 55.00282580979323,
-        "lng": 82.96875000000001
-      },
-      "id": "11111111"
-    },
-    {
-      "id": "6c11",
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "GB",
-      "date": "2024-04-27T09:41:26.221Z",
-      "notes": "Серая какашня",
-      "position": {
-        "lat": "51.50190410761811",
-        "lng": "-0.15380859375000003"
+        "lat": "55.024873440944816",
+        "lng": "82.92755126953126"
       }
     },
     {
-      "id": "171f",
-      "cityName": "Oxford",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "GB",
-      "date": "2024-04-27T09:50:47.505Z",
-      "notes": "test",
+      "id": "a1f2",
+      "cityName": "Krasnozerskoye",
+      "country": "Russian Federation (the)",
+      "emoji": "RU",
+      "date": "2024-04-28T09:31:32.311Z",
+      "notes": "Дом, милый дом...🏡",
       "position": {
-        "lat": "51.7406361640977",
-        "lng": "-1.2524414062500002"
+        "lat": "53.97708957753223",
+        "lng": "79.23889160156251"
       }
     }
   ]
