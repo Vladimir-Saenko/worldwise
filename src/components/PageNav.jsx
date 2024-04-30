@@ -14,6 +14,9 @@ function PageNav() {
         <li>
           <NavLink to="/pricing">Цены</NavLink>
         </li>
+        <li>
+          <NavLink to="/login">Авторизация</NavLink>
+        </li>
       </ul>
     </nav>
   );
